@@ -26,12 +26,5 @@ Uma breve descrição dos tópicos abordados na disciplina, como:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-- **/Resumos:** Minhas anotações pessoais feitas durante as aulas.
-- **/Materiais-de-Apoio:** Slides, artigos e outros materiais complementares fornecidos pelo professor.
-- **/Atividades:** Contém todos os trabalhos e atividades realizados ao longo do semestre.
-
----
 
 Este repositório é uma forma de organizar meu aprendizado e criar um portfólio dos meus projetos acadêmicos.
